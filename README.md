@@ -62,16 +62,16 @@ cv.destroyAllWindows()
 
 ## Results
 ### Single Image Detection
-### **img3.jpg**
+- ### **img3.jpg**
 ![image](https://github.com/Devansh-Gupta-Official/object-detection-yolo/assets/100591612/a74c6f08-224c-44d3-bcf3-d1d24d4f4f6e)
 
-### **img.jpg**
+- ### **img.jpg**
 ![image](https://github.com/Devansh-Gupta-Official/object-detection-yolo/assets/100591612/2b14c456-db5b-4506-9a0f-8dbe55f719c3)
 
-### **img2.jpg**
+- ### **img2.jpg**
 ![image](https://github.com/Devansh-Gupta-Official/object-detection-yolo/assets/100591612/f775a483-f4e3-43e5-a0c7-2b3b89d9057d)
 
-### **vid.mp4**
+- ### **vid.mp4**
 ![image](https://github.com/Devansh-Gupta-Official/object-detection-yolo/assets/100591612/ebe8ce4c-3f66-4529-97ea-d1625d2d9d96)
 ![image](https://github.com/Devansh-Gupta-Official/object-detection-yolo/assets/100591612/b39fe20f-059b-453f-a421-e6138cf5a9ad)
 
